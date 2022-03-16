@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ardli Firman Maulana
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning React Js and Express Js
+- 🌱 I’m currently learning Android Stuff
 - 📫 How to reach me ardlifirman17@gmail.com
 
 <!---
